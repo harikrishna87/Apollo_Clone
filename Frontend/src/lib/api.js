@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://apollo-backend-rhp2.onrender.com/apollo';
+const API_URL = 'https://apollo-clone-yq62.onrender.com/apollo';
 
 export const fetchDoctors = async (filters = {}) => {
   try {
